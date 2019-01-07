@@ -1,0 +1,9 @@
+702563981:AAESXoxdAkty6UgychahD-PNcWQTbjHGzW8
+
+https://python-jizzang-1.c9users.io/702563981:AAESXoxdAkty6UgychahD-PNcWQTbjHGzW8
+
+https://www.draw.io/#G1zoMy3NWY5-vyQFYm87QwnPXTMiv-kfxR
+
+https://api.telegram.org/bot<token>/setWebhook?url=
+
+https://docs.google.com/presentation/d/e/2PACX-1vQtguw642Q2Gzyc2FmMwyRYUnvyFCgI_xa8_N7awH70imq-v2ALDKXLOug3TDQB3s-unOywGQv2m2jY/pub?start=false&loop=false&delayms=15000
